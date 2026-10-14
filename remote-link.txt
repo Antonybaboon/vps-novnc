@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://charge-microwave-fragrances-longest.trycloudflare.com/vnc.html
+URL       : https://caps-public-paste-xbox.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 20:32:56
+Created   : 2026-10-14 03:40:43
 =======================================================
