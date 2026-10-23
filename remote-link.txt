@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://astronomy-tax-comics-teacher.trycloudflare.com/vnc.html
+URL       : https://elect-fruits-headers-samuel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 03:32:00
+Created   : 2026-10-23 09:47:25
 =======================================================
