@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mon-ebooks-glucose-resulted.trycloudflare.com/vnc.html
+URL       : https://lady-places-feb-configurations.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:25:21
+Created   : 2026-11-02 04:36:34
 =======================================================
