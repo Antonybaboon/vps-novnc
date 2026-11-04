@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://organisation-visit-die-town.trycloudflare.com/vnc.html
+URL       : https://actually-grows-glass-detective.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 00:25:44
+Created   : 2026-11-04 12:49:05
 =======================================================
