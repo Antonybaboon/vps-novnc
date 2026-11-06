@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fastest-unlikely-wrestling-conversations.trycloudflare.com/vnc.html
+URL       : https://economics-substance-attractive-application.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:53:55
+Created   : 2026-11-06 00:48:23
 =======================================================
